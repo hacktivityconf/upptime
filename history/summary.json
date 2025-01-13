@@ -10,52 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2084,
-    "timeDay": 2084,
-    "timeWeek": 2084,
-    "timeMonth": 2084,
-    "timeYear": 2084,
+    "time": 2220,
+    "timeDay": 2220,
+    "timeWeek": 2220,
+    "timeMonth": 2220,
+    "timeYear": 2220,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "BSidesBud - Website",
-    "url": "https://bsidesbud.com/sitemap_index.xml",
-    "icon": "https://icons.duckduckgo.com/ip3/bsidesbud.com.ico",
-    "slug": "b-sides-bud-website",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 97,
-    "timeDay": 97,
-    "timeWeek": 97,
-    "timeMonth": 97,
-    "timeYear": 97,
-    "dailyMinutesDown": {
-      "2025-01-13": 35
-    }
-  },
-  {
-    "name": "BSidesBud - Analytics",
-    "url": "https://t.bsidesbud.com/api/health",
-    "icon": "https://icons.duckduckgo.com/ip3/t.bsidesbud.com.ico",
-    "slug": "b-sides-bud-analytics",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 95,
-    "timeDay": 95,
-    "timeWeek": 95,
-    "timeMonth": 95,
-    "timeYear": 95,
-    "dailyMinutesDown": {
-      "2025-01-13": 35
-    }
   },
   {
     "name": "BSidesBud - CDN",
@@ -68,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 141,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   }
 ]

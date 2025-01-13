@@ -31,7 +31,6 @@ status-website:
   introTitle: "Uptime monitoring"
   robotsText: "User-agent: * \n Disallow: /"
   theme: dark
-  user-agent: Upptime/mLNCswJvolUYm29ckfJAy7MMi7f2hz1C
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO

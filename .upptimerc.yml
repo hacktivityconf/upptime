@@ -4,11 +4,6 @@ repo: upptime
 sites:
   - name: Hacktivity
     url: https://hacktivity.com
-  - name: BSidesBud - Website
-    url: https://bsidesbud.com/sitemap_index.xml
-    maxResponseTime: 5000
-  - name: BSidesBud - Analytics
-    url: https://t.bsidesbud.com/api/health
   - name: BSidesBud - CDN
     url: https://cdn.bsidesbud.com/uploads/2017/01/small_logo_website.png
 assignees: 
@@ -16,9 +11,9 @@ assignees:
   - imaro
 status-website:
   cname: status.hacktivity.com
-  logoUrl: https://cdn.bsidesbud.com/uploads/2024/12/bsidesbud_logo_transparent-e1736242572952.png
-  favicon: https://cdn.bsidesbud.com/uploads/2024/12/icon-150x150.png
-  name: Infrastructure Status Page
+  logoUrl: https://hacktivity.com/wp-content/uploads/2023/05/hacktivity-logo_white.png
+  favicon: https://hacktivity.com/wp-content/uploads/2023/05/cropped-favicon-32x32.png
+  name: Status Page
   introTitle: "Uptime monitoring"
   robotsText: "User-agent: * \n Disallow: /"
   theme: dark

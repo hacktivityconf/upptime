@@ -7,6 +7,7 @@ sites:
     maxResponseTime: 5000
   - name: BSidesBud - CDN
     url: https://cdn.bsidesbud.com/uploads/2017/01/small_logo_website.png
+    icon: https://developers.cloudflare.com/favicon.png
   - name: BSidesBud - Website
     url: https://bsidesbud.com/sitemap_index.xml
     maxResponseTime: 5000
@@ -20,6 +21,9 @@ sites:
     check: "tcp-ping"
     url: $BSIDESBUD_SERVER_IP
     port: $BSIDESBUD_SERVER_PORT
+    icon: https://archlinux.org/static/favicon.51c13517c44c.png
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 assignees: 
   - D3vl0per
   - imaro
@@ -43,4 +47,4 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/1 * * * *"
+  uptime: "*/5 * * * *"

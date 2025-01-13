@@ -2,10 +2,20 @@ owner: hacktivityconf
 repo: upptime
 
 sites:
-  - name: Hacktivity
+  - name: Hacktivity - Website
     url: https://hacktivity.com
+    maxResponseTime: 5000
   - name: BSidesBud - CDN
     url: https://cdn.bsidesbud.com/uploads/2017/01/small_logo_website.png
+  - name: BSidesBud - Website
+    url: https://bsidesbud.com/sitemap_index.xml
+    maxResponseTime: 5000
+  - name: BSidesBud - Analytics
+    url: https://t.bsidesbud.com/api/health
+  - name: BSidesBud - Server
+    check: "tcp-ping"
+    url: $BSIDESBUD_SERVER_IP
+    port: $BSIDESBUD_SERVER_PORT
 assignees: 
   - D3vl0per
   - imaro
@@ -19,11 +29,8 @@ status-website:
   theme: dark
   user-agent: Upptime/mLNCswJvolUYm29ckfJAy7MMi7f2hz1C
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Hacktivity's Discord
       href: https://discord.hacktvity.com
-    - title: BSidesBud's Discord
-      href: https://discord.bsidesbud.com
+

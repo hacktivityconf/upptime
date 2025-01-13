@@ -2,12 +2,14 @@ owner: hacktivityconf
 repo: upptime
 
 sites:
+  - name: Hacktivity - Tickets
+    url: https://tickets.hacktivity.com/en/
   - name: Hacktivity - Website
     url: https://hacktivity.com
     maxResponseTime: 5000
   - name: BSidesBud - CDN
     url: https://cdn.bsidesbud.com/uploads/2017/01/small_logo_website.png
-    icon: https://developers.cloudflare.com/favicon.png
+    icon: https://cdn.bsidesbud.com/static/favicon/cficon.png
   - name: BSidesBud - Website
     url: https://bsidesbud.com/sitemap_index.xml
     maxResponseTime: 5000
@@ -21,16 +23,14 @@ sites:
     check: "tcp-ping"
     url: $BSIDESBUD_SERVER_IP
     port: $BSIDESBUD_SERVER_PORT
-    icon: https://archlinux.org/static/favicon.51c13517c44c.png
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    icon: https://cdn.bsidesbud.com/static/favicon/archicon.png
 assignees: 
   - D3vl0per
   - imaro
 status-website:
   cname: status.hacktivity.com
-  logoUrl: https://hacktivity.com/wp-content/uploads/2023/05/hacktivity-logo_white.png
-  favicon: https://hacktivity.com/wp-content/uploads/2023/05/cropped-favicon-32x32.png
+  logoUrl: https://cdn.bsidesbud.com/static/favicon/hacktivity-logo_white.png
+  favicon: https://cdn.bsidesbud.com/static/favicon/cropped-favicon-32x32.png
   name: Status Page
   introTitle: "Uptime monitoring"
   robotsText: "User-agent: * \n Disallow: /"

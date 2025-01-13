@@ -2,11 +2,16 @@ owner: hacktivityconf
 repo: upptime
 
 sites:
-  - name: Hacktivity - Tickets
-    url: https://tickets.hacktivity.com/en/
   - name: Hacktivity - Website
     url: https://hacktivity.com
     maxResponseTime: 5000
+  - name: Hacktivity - Tickets
+    url: https://tickets.hacktivity.com/en/
+  - name: Hacktivity - Tickets Email Server
+    check: "tcp-ping"
+    url: 195.228.75.155
+    port: 25
+    icon: https://cdn.bsidesbud.com/static/favicon/cropped-favicon-32x32.png
   - name: BSidesBud - CDN
     url: https://cdn.bsidesbud.com/uploads/2017/01/small_logo_website.png
     icon: https://cdn.bsidesbud.com/static/favicon/cficon.png
@@ -24,9 +29,15 @@ sites:
     url: $BSIDESBUD_SERVER_IP
     port: $BSIDESBUD_SERVER_PORT
     icon: https://cdn.bsidesbud.com/static/favicon/archicon.png
+  - name: BSidesBud - Legacy Server
+    check: "tcp-ping"
+    url: $BSIDESBUD_LEGACY_SERVER_IP
+    port: $BSIDESBUD_LEGACY_SERVER_PORT
+    icon: https://cdn.bsidesbud.com/static/favicon/dbfavicon.ico
 assignees: 
   - D3vl0per
   - imaro
+  - MaszekMester
 status-website:
   cname: status.hacktivity.com
   logoUrl: https://cdn.bsidesbud.com/static/favicon/hacktivity-logo_white.png

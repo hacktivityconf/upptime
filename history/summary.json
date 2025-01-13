@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2084,
-    "timeDay": 2084,
-    "timeWeek": 2084,
-    "timeMonth": 2084,
-    "timeYear": 2084,
+    "time": 2286,
+    "timeDay": 2286,
+    "timeWeek": 2286,
+    "timeMonth": 2286,
+    "timeYear": 2286,
     "dailyMinutesDown": {}
   },
   {
     "name": "BSidesBud - CDN",
     "url": "https://cdn.bsidesbud.com/uploads/2017/01/small_logo_website.png",
-    "icon": "https://icons.duckduckgo.com/ip3/cdn.bsidesbud.com.ico",
+    "icon": "https://developers.cloudflare.com/favicon.png",
     "slug": "b-sides-bud-cdn",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 200,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "time": 217,
+    "timeDay": 217,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 224,
-    "timeDay": 224,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "time": 329,
+    "timeDay": 329,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2025-01-13": 64
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 137,
-    "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
+    "time": 166,
+    "timeDay": 166,
+    "timeWeek": 166,
+    "timeMonth": 166,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2025-01-13": 64
     }
@@ -78,7 +78,7 @@
   {
     "name": "BSidesBud - Server",
     "url": "$BSIDESBUD_SERVER_IP",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://archlinux.org/static/favicon.51c13517c44c.png",
     "slug": "b-sides-bud-server",
     "status": "up",
     "uptime": "100.00%",
@@ -86,11 +86,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "time": 134,
+    "timeDay": 134,
+    "timeWeek": 134,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Broken Site",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "slug": "test-broken-site",
+    "status": "down",
+    "uptime": "8.00%",
+    "uptimeDay": "8.00%",
+    "uptimeWeek": "8.00%",
+    "uptimeMonth": "8.00%",
+    "uptimeYear": "8.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-01-13": 0
+    }
   }
 ]

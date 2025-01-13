@@ -8,7 +8,7 @@ sites:
     url: https://bsidesbud.com/sitemap_index.xml
     maxResponseTime: 5000
   - name: BSidesBud - Analytics
-    url: https://t.bsidesbud.com
+    url: https://t.bsidesbud.com/api/health
   - name: BSidesBud - CDN
     url: https://cdn.bsidesbud.com/uploads/2017/01/small_logo_website.png
 assignees: 

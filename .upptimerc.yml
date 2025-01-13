@@ -6,6 +6,7 @@ sites:
     url: https://hacktivity.com
   - name: BSidesBud - Website
     url: https://bsidesbud.com
+    maxResponseTime: 5000
   - name: BSidesBud - Analytics
     url: https://t.bsidesbud.com
   - name: BSidesBud - CDN
@@ -16,9 +17,12 @@ assignees:
 status-website:
   cname: status.hacktivity.com
   logoUrl: https://cdn.bsidesbud.com/uploads/2024/12/bsidesbud_logo_transparent-e1736242572952.png
+  favicon: https://cdn.bsidesbud.com/uploads/2024/12/icon-150x150.png
   name: Hacktivity Infrastructure Status Page
   introTitle: "Uptime monitoring"
-  introMessage: 
+  robotsText: "User-agent: * \n Disallow: /"
+  theme: dark
+  navbar:
     - title: Status
       href: /
     - title: GitHub

@@ -10,8 +10,12 @@ sites:
   - name: BSidesBud - Website
     url: https://bsidesbud.com/sitemap_index.xml
     maxResponseTime: 5000
+    headers:
+      - "github-bypass: $BSIDESBUD_BYPASS_TOKEN"
   - name: BSidesBud - Analytics
     url: https://t.bsidesbud.com/api/health
+    headers:
+      - "github-bypass: $BSIDESBUD_BYPASS_TOKEN"
   - name: BSidesBud - Server
     check: "tcp-ping"
     url: $BSIDESBUD_SERVER_IP
@@ -33,4 +37,11 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Hacktivity's Discord
       href: https://discord.hacktvity.com
-
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/1 * * * *"

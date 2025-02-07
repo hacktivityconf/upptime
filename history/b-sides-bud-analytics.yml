@@ -1,7 +1,7 @@
 url: https://t.bsidesbud.com/api/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-07T11:12:06.480Z
+status: up
+code: 200
+responseTime: 11423
+lastUpdated: 2025-02-07T11:49:52.867Z
 startTime: 2025-01-13T19:43:44.082Z
 generator: Upptime <https://github.com/upptime/upptime>

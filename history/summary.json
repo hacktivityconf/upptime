@@ -42,9 +42,9 @@
     "url": "195.228.75.155",
     "icon": "https://cdn.bsidesbud.com/static/favicon/cropped-favicon-32x32.png",
     "slug": "hacktivity-tickets-email-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 126,
     "timeMonth": 125,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "BSidesBud - CDN",
@@ -122,18 +124,18 @@
     "icon": "https://cdn.bsidesbud.com/static/favicon/archicon.png",
     "slug": "b-sides-bud-server",
     "status": "down",
-    "uptime": "71.49%",
+    "uptime": "71.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.62%",
-    "uptimeYear": "71.49%",
+    "uptimeMonth": "69.05%",
+    "uptimeYear": "71.11%",
     "time": 121,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 117,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-02-15": 746,
+      "2025-02-15": 994,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,

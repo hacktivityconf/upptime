@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1764,
-    "timeDay": 1710,
-    "timeWeek": 1785,
-    "timeMonth": 1750,
-    "timeYear": 1662,
+    "time": 1763,
+    "timeDay": 1690,
+    "timeWeek": 1695,
+    "timeMonth": 1748,
+    "timeYear": 1663,
     "dailyMinutesDown": {
       "2026-04-07": 62,
       "2026-02-25": 39,
@@ -42,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 606,
-    "timeDay": 578,
-    "timeWeek": 605,
-    "timeMonth": 599,
-    "timeYear": 613,
+    "timeDay": 520,
+    "timeWeek": 591,
+    "timeMonth": 601,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2025-07-29": 14
     }
@@ -63,8 +63,8 @@
     "uptimeYear": "99.99%",
     "time": 128,
     "timeDay": 119,
-    "timeWeek": 132,
-    "timeMonth": 130,
+    "timeWeek": 128,
+    "timeMonth": 131,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-07-31": 28
@@ -82,9 +82,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 200,
-    "timeDay": 72,
-    "timeWeek": 216,
-    "timeMonth": 250,
+    "timeDay": 150,
+    "timeWeek": 194,
+    "timeMonth": 249,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2026-02-25": 37,
@@ -103,9 +103,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1455,
-    "timeDay": 1472,
-    "timeWeek": 1405,
+    "time": 1456,
+    "timeDay": 1406,
+    "timeWeek": 1396,
     "timeMonth": 1402,
     "timeYear": 1556,
     "dailyMinutesDown": {
@@ -127,16 +127,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/t.bsidesbud.com.ico",
     "slug": "b-sides-bud-analytics",
     "status": "up",
-    "uptime": "90.94%",
+    "uptime": "90.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.93%",
+    "uptimeYear": "89.20%",
     "time": 529,
-    "timeDay": 448,
-    "timeWeek": 526,
-    "timeMonth": 516,
-    "timeYear": 548,
+    "timeDay": 476,
+    "timeWeek": 518,
+    "timeMonth": 515,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2025-11-18": 71,
       "2025-08-15": 23,
@@ -179,8 +179,7 @@
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 1440
+      "2025-05-18": 1440
     }
   },
   {
@@ -189,7 +188,7 @@
     "icon": "https://cdn.bsidesbud.com/static/favicon/archicon.png",
     "slug": "b-sides-bud-server",
     "status": "down",
-    "uptime": "4.80%",
+    "uptime": "4.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -200,7 +199,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 130,
+      "2026-05-17": 134,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -563,8 +563,7 @@
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 1440
+      "2025-05-18": 1440
     }
   },
   {
@@ -573,18 +572,19 @@
     "icon": "https://cdn.bsidesbud.com/static/favicon/dbfavicon.ico",
     "slug": "b-sides-bud-legacy-server",
     "status": "down",
-    "uptime": "61.99%",
+    "uptime": "61.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.26%",
+    "uptimeYear": "48.99%",
     "time": 108,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2026-05-16": 130,
+      "2026-05-17": 134,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,

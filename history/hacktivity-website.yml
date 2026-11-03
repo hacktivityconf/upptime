@@ -1,7 +1,7 @@
 url: https://hacktivity.com
-status: up
-code: 200
-responseTime: 1398
-lastUpdated: 2026-11-02T01:56:39.406Z
+status: degraded
+code: 520
+responseTime: 27426
+lastUpdated: 2026-11-03T03:52:52.407Z
 startTime: 2025-01-13T19:43:41.707Z
 generator: Upptime <https://github.com/upptime/upptime>

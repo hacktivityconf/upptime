@@ -50,19 +50,19 @@
     "url": "195.228.75.155",
     "icon": "https://cdn.bsidesbud.com/static/favicon/cropped-favicon-32x32.png",
     "slug": "hacktivity-tickets-email-server",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "70.08%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.92%",
     "time": 130,
     "timeDay": 133,
-    "timeWeek": 121,
+    "timeWeek": 122,
     "timeMonth": 135,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2026-11-15": 81
+      "2026-11-15": 431
     }
   },
   {
@@ -123,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/t.bsidesbud.com.ico",
     "slug": "b-sides-bud-analytics",
     "status": "up",
-    "uptime": "93.23%",
+    "uptime": "93.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.07%",
@@ -156,7 +156,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-15": 240,
+      "2026-11-15": 595,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
@@ -529,7 +529,7 @@
     "icon": "https://cdn.bsidesbud.com/static/favicon/dbfavicon.ico",
     "slug": "b-sides-bud-legacy-server",
     "status": "down",
-    "uptime": "45.06%",
+    "uptime": "45.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -540,7 +540,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-15": 240,
+      "2026-11-15": 595,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
       "2026-11-12": 1440,

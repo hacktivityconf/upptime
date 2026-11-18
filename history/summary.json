@@ -49,20 +49,20 @@
     "url": "195.228.75.155",
     "icon": "https://cdn.bsidesbud.com/static/favicon/cropped-favicon-32x32.png",
     "slug": "hacktivity-tickets-email-server",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "94.50%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "88.61%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "99.89%",
     "time": 131,
-    "timeDay": 0,
-    "timeWeek": 120,
-    "timeMonth": 134,
+    "timeDay": 104,
+    "timeWeek": 118,
+    "timeMonth": 133,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2026-11-15": 431,
-      "2026-11-18": 79
+      "2026-11-18": 164
     }
   },
   {
@@ -153,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 319,
+      "2026-11-18": 408,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -537,7 +537,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 319,
+      "2026-11-18": 409,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,

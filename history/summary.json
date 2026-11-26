@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.60%",
-    "time": 1754,
-    "timeDay": 1307,
-    "timeWeek": 1498,
-    "timeMonth": 2333,
+    "time": 1755,
+    "timeDay": 1551,
+    "timeWeek": 1543,
+    "timeMonth": 2346,
     "timeYear": 1848,
     "dailyMinutesDown": {
       "2025-12-03": 24,
@@ -37,10 +37,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 464,
-    "timeWeek": 545,
-    "timeMonth": 579,
+    "time": 606,
+    "timeDay": 558,
+    "timeWeek": 574,
+    "timeMonth": 581,
     "timeYear": 597,
     "dailyMinutesDown": {}
   },
@@ -49,22 +49,23 @@
     "url": "195.228.75.155",
     "icon": "https://cdn.bsidesbud.com/static/favicon/cropped-favicon-32x32.png",
     "slug": "hacktivity-tickets-email-server",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "95.03%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "99.79%",
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "78.55%",
+    "uptimeWeek": "92.01%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "99.73%",
     "time": 131,
-    "timeDay": 105,
-    "timeWeek": 129,
+    "timeDay": 130,
+    "timeWeek": 135,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2026-11-15": 431,
       "2026-11-18": 164,
       "2026-11-22": 497,
-      "2026-11-25": 5
+      "2026-11-26": 273,
+      "2026-11-25": 36
     }
   },
   {
@@ -79,9 +80,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 248,
-    "timeDay": 213,
-    "timeWeek": 272,
-    "timeMonth": 310,
+    "timeDay": 275,
+    "timeWeek": 305,
+    "timeMonth": 308,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2026-02-25": 37,
@@ -100,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 1573,
-    "timeDay": 1211,
-    "timeWeek": 1230,
-    "timeMonth": 1366,
-    "timeYear": 1597,
+    "time": 1574,
+    "timeDay": 1349,
+    "timeWeek": 1278,
+    "timeMonth": 1376,
+    "timeYear": 1596,
     "dailyMinutesDown": {
       "2025-12-03": 14,
       "2025-12-20": 6,
@@ -127,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 538,
-    "timeDay": 419,
-    "timeWeek": 500,
-    "timeMonth": 831,
-    "timeYear": 544,
+    "time": 537,
+    "timeDay": 519,
+    "timeWeek": 526,
+    "timeMonth": 833,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2026-10-23": 904,
       "2026-10-22": 819
@@ -154,7 +155,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-25": 1409,
+      "2026-11-26": 278,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -517,8 +519,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -527,7 +528,7 @@
     "icon": "https://cdn.bsidesbud.com/static/favicon/dbfavicon.ico",
     "slug": "b-sides-bud-legacy-server",
     "status": "down",
-    "uptime": "44.34%",
+    "uptime": "44.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -538,7 +539,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-25": 1409,
+      "2026-11-26": 278,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -901,8 +903,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   }
 ]
